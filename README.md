@@ -10,8 +10,8 @@ title={On the Diffusion and Impact of Code Smells in Web Software Applications},
 
 author={Bessghaier, Narjes and Ouni, Ali and Mkaouer, Mohamed Wiem},
 
-booktitle={International Conference on Services Computing}, 
+booktitle={International Conference on Services Computing (SCC)}, 
 
-pages={},
+pages={1-18},
 
 year={2020}}
